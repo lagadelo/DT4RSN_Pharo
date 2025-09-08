@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Singleton"
+	],
+	"instvars" : [
+		"objets"
+	],
+	"name" : "Terrain",
+	"type" : "normal"
+}

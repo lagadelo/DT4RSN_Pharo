@@ -1,0 +1,4 @@
+accessing
+objets
+
+	^ objets

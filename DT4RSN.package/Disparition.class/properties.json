@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Aleas",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Disparition",
+	"type" : "normal"
+}

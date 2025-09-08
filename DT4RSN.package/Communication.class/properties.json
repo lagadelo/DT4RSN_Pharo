@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Environnement",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Communication",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Moyen",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"quantiteInitiale",
+		"quantiteResiduelle"
+	],
+	"name" : "Consommable",
+	"type" : "normal"
+}

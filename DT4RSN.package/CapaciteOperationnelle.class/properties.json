@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Capacite",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cible",
+		"consommation"
+	],
+	"name" : "CapaciteOperationnelle",
+	"type" : "normal"
+}

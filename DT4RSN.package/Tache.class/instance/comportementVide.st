@@ -1,0 +1,4 @@
+initializing
+comportementVide
+
+^[:a :b|]

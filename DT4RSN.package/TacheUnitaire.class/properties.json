@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Tache",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pendant",
+		"duree"
+	],
+	"name" : "TacheUnitaire",
+	"type" : "normal"
+}

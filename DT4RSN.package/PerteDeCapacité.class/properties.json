@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Disparition",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PerteDeCapacité",
+	"type" : "normal"
+}

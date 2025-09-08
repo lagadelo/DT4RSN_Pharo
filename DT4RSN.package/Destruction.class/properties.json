@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CapaciteOperationnelle",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Destruction",
+	"type" : "normal"
+}

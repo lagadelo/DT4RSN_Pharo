@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Aleas",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taux",
+		"quantite"
+	],
+	"name" : "AffaiblissementDeCapacité",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+visiting
+visitNonConsommable: a
+a initializeCapacites

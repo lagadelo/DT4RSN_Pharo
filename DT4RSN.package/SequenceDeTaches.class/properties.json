@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Tache",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taches"
+	],
+	"name" : "SequenceDeTaches",
+	"type" : "normal"
+}

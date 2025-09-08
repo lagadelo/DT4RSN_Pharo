@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Moyen",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"capacites",
+		"position",
+		"amiOuEnnemi",
+		"variables"
+	],
+	"name" : "NonConsommable",
+	"type" : "normal"
+}

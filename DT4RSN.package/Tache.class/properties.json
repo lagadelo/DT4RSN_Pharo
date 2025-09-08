@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "LoicLagadec 8/27/2025 14:37",
+	"super" : "Object",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dependancesEnEntree",
+		"dependancesEnSortie",
+		"avant",
+		"apres"
+	],
+	"name" : "Tache",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+processing
+supprimeCapacite: uneCapacité
+
+uneCapacité vecteur supprimeCapacite:uneCapacité

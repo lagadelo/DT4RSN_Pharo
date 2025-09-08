@@ -1,0 +1,4 @@
+accessing
+quantiteResiduelle
+
+	^ quantiteResiduelle

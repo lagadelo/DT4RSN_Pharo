@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CapaciteOperationnelle",
+	"category" : "DT4RSN",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vitesse"
+	],
+	"name" : "Deplacement",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+dureeParDefaut
+
+^1
